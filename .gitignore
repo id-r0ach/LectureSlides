@@ -1,0 +1,18 @@
+# Видео и сгенерированные слайды
+*.mp4
+*.mkv
+*.avi
+*.mov
+slide_*.jpg
+slide_*.png
+presentation.pdf
+contact_sheet.jpg
+презентация/
+
+# Окружение и кэш
+__pycache__/
+*.pyc
+.venv/
+env/
+.idea/
+.vscode/
